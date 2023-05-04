@@ -1,7 +1,7 @@
 {
   "httpHeaders": [
     {
-      "urls": ["https://docs.github.com/"],
+      "urls": ["https://docs.github.com/", "https://opensource.org/licenses/MIT"],
       "headers": {
         "Accept-Encoding": "zstd, br, gzip, deflate"
       }
