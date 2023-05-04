@@ -1,7 +1,10 @@
 {
-  "ignorePatterns": [
+  "httpHeaders": [
     {
-      "pattern": "^http://opensource.org/licenses/MIT"
+      "urls": ["https://docs.github.com/"],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
     }
   ]
 }
